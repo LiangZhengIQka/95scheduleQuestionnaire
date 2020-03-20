@@ -1,6 +1,6 @@
 spring:
   datasource:
-    name: 111
-    url: 111
-    username: 111
-    password: 111
+    name: mwork
+    url: jdbc:mysql://49.4.5.64:3306/mwork?serverTimezone=UTC&useUnicode=true&characterEncoding=utf8&useSSL=false
+    username: apptest
+    password: apptest
