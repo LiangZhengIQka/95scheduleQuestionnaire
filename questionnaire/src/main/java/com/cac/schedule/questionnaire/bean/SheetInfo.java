@@ -15,7 +15,7 @@ public class SheetInfo implements Serializable {
     @Column(name="id")
     private int id;
     @Column(name="dept")
-    private  String dept;
+    private String dept;
     @Column(name="gender")
     private String gender;
     @Column(name="job_category")
