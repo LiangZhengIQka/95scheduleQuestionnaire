@@ -15,6 +15,7 @@ public class MealInfo implements Serializable {
     @Column(name="id")
     private int id;
     @Column(name="identification_number")
+    //private String idNum;
     private String identification_number;
     @Column(name="dept_code")
     private  String dept_code;
